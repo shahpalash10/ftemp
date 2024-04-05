@@ -1,6 +1,3 @@
-Certainly! Below is the README in a copyable format:
-
-```
 # Facial Recognition using Generative Adversarial Networks (GAN)
 
 This project implements a facial recognition model using Generative Adversarial Networks (GAN). The model is capable of generating realistic facial images and recognizing faces from input images.
